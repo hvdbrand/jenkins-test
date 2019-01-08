@@ -1,3 +1,5 @@
+package com.t
+
 Class Comp implements Comparable {
   Integer a
   Integer b
