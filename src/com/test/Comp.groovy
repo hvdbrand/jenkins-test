@@ -1,4 +1,4 @@
-package com.t
+package com.test
 
 Class Comp implements Comparable {
   Integer a
