@@ -1,6 +1,6 @@
 package com.test
 
-Class Comp implements Comparable {
+ass Comp implements Comparable {
   Integer a
   Integer b
   Comp(Integer a, Integer b) {
